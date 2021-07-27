@@ -6,10 +6,10 @@ The two datasets that were used here are heart_test.csv and heart_train.csv.
 
 #### heart_test.csv 
 This is un-labelled data that provides information about the patients.
-• Age : Age of the patient
-• Sex : Sex of the patient
-• exang: exercise induced angina (1 = yes; 0 = no)
-• ca: number of major vessels (0-3)
+- Age : Age of the patient
+- Sex : Sex of the patient
+- exang: exercise induced angina (1 = yes; 0 = no)
+- ca: number of major vessels (0-3)
 • cp : Chest Pain type chest pain type
 o Value 1: typical angina
 o Value 2: atypical angina
