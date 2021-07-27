@@ -30,3 +30,6 @@ This is un-labelled data that provides the above information about the patients.
 #### heart_train.csv
 This is the labelled data that provides all the same information as heart_test.csv, with an additional column signifying if the particular patient is at high risk of a heart attack in the near future. In this column a 1 = Yes and a 0 = No. This is the data used to train the model and ensure that it is making satisfactory predictions.
 
+#### Showing my work
+
+The steps in my work and the results are all displayed in the jupyter notebook file in this repository. To vieww this open up "Heart Attack Prediction.ipynb".
