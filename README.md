@@ -10,7 +10,7 @@ The two datasets that were used here are heart_test.csv and heart_train.csv.
 - cp : Chest Pain type chest pain type
 - Value 1: typical angina
 - Value 2: atypical angina
--- Value 3: non-anginal pain
+  - Value 3: non-anginal pain
 - Value 4: asymptomatic
 - trtbps : resting blood pressure (in mm Hg)
 - chol : cholestoral in mg/dl fetched via BMI sensor
