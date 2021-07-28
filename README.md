@@ -32,4 +32,4 @@ This is the labelled data that provides all the same information as heart_test.c
 
 #### Showing my work
 
-The steps in my work and the results are all displayed in the jupyter notebook file in this repository. To vieww this open up "Heart Attack Prediction.ipynb". There you will see not only the model I used, but also the exploratory data analysis I did to gain a better understanding of the data.
+The steps in my work and the results are all displayed in the jupyter notebook file in this repository. To view this open up "Heart Attack Prediction.ipynb". There you will see not only the model I used, but also the exploratory data analysis I did to gain a better understanding of the data.
